@@ -1,5 +1,4 @@
 class Customer:
-    
     customers = []
     
     def __init__(self, given_name, family_name):
