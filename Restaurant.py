@@ -6,3 +6,6 @@ class Restaurant:
     
     def name(self):
         return self.name
+    
+    def customers(self):
+        return 
