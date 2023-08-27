@@ -11,6 +11,9 @@ class Restaurant:
     def reviews(self):
         return self.reviews
     
+    def customers(self):
+        pass
+    
 restaurant = Restaurant("Cratex")
 print (restaurant.name())
     # def customers(self):
