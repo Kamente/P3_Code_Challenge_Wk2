@@ -12,7 +12,8 @@ JUSTIN KAMENTE
 ### Object Relations - Restaurants
 
 ```
-Implementation of set of classes and methods to manage relationships between customers, restaurants and reviews in the restaurant system. 
+Implementation of set of classes and methods to manage relationships between 
+customers, restaurants and reviews in the restaurant system. 
 ```
 
 
