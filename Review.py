@@ -17,4 +17,4 @@ class Review:
     
     @classmethod
     def all(cls):
-        return cls.reviews
+        return cls.reviews  
