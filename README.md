@@ -13,13 +13,17 @@ JUSTIN KAMENTE
 
 ```
 Implementation of set of classes and methods to manage relationships between 
-customers, restaurants and reviews in the restaurant system. 
+customers, restaurants and reviews in the restaurant system.
+The system has three models:
+- Restaurant
+- Customer
+- Review
 ```
 
 
 ## Code set up 
 
-- Git clone <https://github.com/Kamente/P3_Code_Challenge_Wk1> to a local folder
+- Git clone <https://github.com/Kamente/P3_Code_Challenge_Wk2> to a local folder
 - Open the folder in the vscode
 - Test the classes files and their relationships
 - ensure you have python3 installed to run the files
