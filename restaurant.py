@@ -1,5 +1,6 @@
 class Restaurant:
     restaurants = []
+    customer_list = []
     
     def __init__(self, name):
         self.name = name
@@ -12,7 +13,8 @@ class Restaurant:
         return self.reviews
     
     def customers(self):
-        pass
+        for customer in self.customers:
+            pass
     
 restaurant = Restaurant("Cratex")
 print (restaurant.name())

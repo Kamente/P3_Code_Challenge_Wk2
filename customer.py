@@ -21,7 +21,7 @@ class Customer:
         self.reviews.append(new_review)
         
     def num_reviews(self):
-        return len(self.reviews_list)
+        return len(self.reviews)
     
     @classmethod # decorator method(return all the customer instances)
     def all(cls):
